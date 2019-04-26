@@ -6,6 +6,20 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  height: 100%;
+  background: url(/imgs/4k-wallpaper-blue-sky-blur-281260.jpg) no-repeat;
+  background-size: cover;
+  margin:0px;
+  padding:0px;
+}
+
+html{
+  height: 100%;
+}
+
+form{
+  padding:30px;
+  margin: 60px auto auto auto;
 }
 
 code {
